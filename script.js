@@ -1,0 +1,1 @@
+let canvasDiv = document.createElement('div')

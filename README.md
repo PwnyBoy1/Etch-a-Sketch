@@ -1,0 +1,1 @@
+Etch-a-Sketch project from The Odin Project. This project will test my DOM manipulation skills.
