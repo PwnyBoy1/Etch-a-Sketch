@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid {
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 640px;
+    width: 640px;
+    justify-content:space-between;
+    row-gap: 0px;
+    column-gap: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+.cell{
+    height: 40px;
+    width: 40px;
+    padding: 0px;
+    margin: 0px;
+    
+}
